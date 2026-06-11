@@ -11,9 +11,9 @@ isDraft: false
 # layout: ../../layouts/BlogLayout.astro
 ---
 
-# { frontmatter.title }
+# Explorando Funciones de ES6
 
-{/* Mostrar imagen */}
+{/_ Mostrar imagen _/}
 
 JavaScript ES6 introdujo varias funciones nuevas que han hecho que la codificación en JavaScript sea más eficiente y agradable. Vamos a explorar algunas de estas funciones.
 
